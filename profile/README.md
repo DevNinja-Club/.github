@@ -125,9 +125,9 @@ We are a three-member development team working together across different areas o
 
 | Member              | Primary Role                   |
 | -------------       | ------------------------------ |
-| 👨‍💻 Soham Bachal [GitHub](https://github.com/Soham-Bachal)     | Frontend Development           |
-| 👨‍💻 Abhijit Kote [GitHub](https://github.com/Abhijit-Kote)    | Backend & Database Development |
-| 👨‍💻 Shreenath Tambe [GitHub](https://github.com/Shreenath-Tambe)  | Full-Stack Development & UI/UX |
+| 👨‍💻 Soham Bachal [GitHub](https://github.com/SohamBachal)     | Frontend Development           |
+| 👨‍💻 Abhijit Kote [GitHub](https://github.com/AbhijitKote)    | Backend & Database Development |
+| 👨‍💻 Shreenath Tambe [GitHub](https://github.com/ShreenathTambe)  | Full-Stack Development & UI/UX |
 
 > Each member is continuously developing full-stack skills so that we can collaborate effectively across projects.
 
